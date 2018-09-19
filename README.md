@@ -6,4 +6,5 @@
 
 ### 新闻网站
 - [世界之声](http://cn.rfi.fr)
+- [Google Discover](https://plus.google.com/u/0/discover)
 
